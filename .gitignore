@@ -1,1 +1,6 @@
 .idea/
+/testing/pytest/assertions/.cache/
+/testing/pytest/.cache/
+
+*.pyc
+/__pycache__/
