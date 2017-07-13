@@ -1,2 +1,5 @@
 def test_do_you_see_me():
-    pass
+    assert True
+
+def do_you_see_me_test():
+    assert False
